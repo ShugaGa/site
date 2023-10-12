@@ -1,0 +1,155 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.soc-set{
+    width: 25px;
+    padding-left: 8px;
+}
+.top{
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    /* line-height: 0.5em;  */
+    background-color: #0fa99b;
+    color: #ffff;
+}
+.seti {
+    display: flex;
+    align-items: center;
+}
+.nav-items {
+    display: flex;
+    align-items: center;
+}
+.nav-i {
+    padding-left: 15px;
+    color: #0fa99b;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.logo {
+    margin-right: 100px;
+}
+.cartinka {
+    background-image: url('../img/otdix.jpg');
+    color: #fff;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font: 1.2rem "Fira Sans", sans-serif;
+}
+.cartinka-bot {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    text-shadow: -3px -2px 4px rgb(0, 0, 0);
+}
+.predloj {
+    margin-top: 15px;
+    padding: 10px;
+    background-color:#ffffff00;
+    color: #fff;
+    border-radius: 15px;
+    border: 1px solid #ffff;
+}
+.cart-text {
+    text-shadow: -3px -2px 4px rgb(0, 0, 0);
+}
+.dropbtn {
+    border: none;
+    background-color: #fff;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+.dropdown:hover .dropdown-content {display: block;}
+
+.contact{
+    margin-top: 10px;
+}
+
+.obsh{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.g11 {
+    margin-right: 20px;
+}
+
+.vats2 {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    
+}
+.vats2 h1 {
+    text-align: center;
+}
+footer {
+    background-color: #0fa99b;
+    color: #fff;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+}
+
+.textik{
+    text-align: center;
+    color: #0fa99b;
+}
+
+.boxik{
+    background-color: #edf6fa;
+    height: 600px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.textik2{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.blok{
+    margin-left: 20px;
+    background-color: white;
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    text-align: center;
+}
+.boksiki  {
+    display: flex;
+}
+.blok p {
+    margin-top: 10px;
+}
